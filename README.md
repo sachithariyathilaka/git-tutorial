@@ -1,2 +1,2 @@
 # git-tutorial
-Java maven project for Git tutorial
+Java spring boot project project for Git tutorial
