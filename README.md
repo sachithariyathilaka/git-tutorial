@@ -1,8 +1,20 @@
-# git-tutorial
-Java spring boot project project for Git tutorial
+# Git Tutorial
+Java spring boot project for Git tutorial.
 
-# Technologies
-Git, GitHub, Maven, Java, Spring Boot
+* ### Technologies
+  * Java 17
+  * Spring Boot 2.7.18-SNAPSHOT
+  * Spring Boot Starter Web
+  * Maven
+  * Git
 
-# Configuration
-https://sachithariyathilaka.medium.com/git-d82202d8fd3d
+* ### Configuration
+  * https://sachithariyathilaka.medium.com/git-d82202d8fd3d
+  
+* ### Release Note
+
+  * Release: 1.0.0
+  * Date: 2024/03/24
+  * Module: Git Tutorial
+  * Changes
+    * Initiate the project.
