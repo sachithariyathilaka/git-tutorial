@@ -8,13 +8,13 @@ Java spring boot project for Git tutorial.
   * Maven
   * Git
 
-* ### Configuration
-  * https://sachithariyathilaka.medium.com/git-d82202d8fd3d
+* ### Documentation
+  * [Read on Medium](https://sachithariyathilaka.medium.com/git-d82202d8fd3d)
   
 * ### Release Note
 
-  * Release: 1.0.0
-  * Date: 2024/03/24
+  * Version: 1.0.0
+  * Release Date: 2024/03/24
   * Module: Git Tutorial
   * Changes
     * Initiate the project.
